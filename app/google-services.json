@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "327064572947",
+    "firebase_url": "https://esp8266-3c928-default-rtdb.firebaseio.com",
+    "project_id": "esp8266-3c928",
+    "storage_bucket": "esp8266-3c928.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327064572947:android:44837decfb7b3c1e239be6",
+        "android_client_info": {
+          "package_name": "com.example.powerassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327064572947-bo5j7jntmn4aftofb12j1an357ldg327.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6WnNZVRw6Kvt7sb85ESGcy-KVmZLSA3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327064572947-bo5j7jntmn4aftofb12j1an357ldg327.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
